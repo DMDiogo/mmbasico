@@ -9,10 +9,10 @@ export function header() {
         <nav>
           <ul className='flex items-center justify-center gap-4'>
             <li>
-              <Link href="/">Home.</Link>
+              <Link href="/">Home</Link>
             </li>
             <li>
-              <Link href="/login">Login</Link>
+              <Link href="/login">Login.</Link>
             </li>
             <li>
               <Link href="/dashboard">Dashboard</Link>
