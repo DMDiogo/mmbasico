@@ -15,7 +15,7 @@ export function header() {
               <Link href="/login">Login.</Link>
             </li>
             <li>
-              <Link href="/dashboard">Dashboard</Link>
+              <Link href="/dashboard">Dashboard,teste</Link>
             </li>
           </ul>
         </nav>
